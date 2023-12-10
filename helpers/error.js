@@ -36,4 +36,4 @@ err401() {this.message = this.message || "Errore 401"};
 err403() {this.message = this.message || "Errore 403"};
 err500() {this.message = this.message || "Errore 500"};
 err501() {this.message = this.message || "Errore 501"};
-};
+}; 
